@@ -1,3 +1,11 @@
+<!---
+layout: page
+title: "Book Summaries"
+description: "Books Summaries"
+permalink: /summaries/
+-->
+
+
 ### Book1
 
 Here is a book summary from my end 

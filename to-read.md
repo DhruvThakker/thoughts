@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE TITLE"
+title: To Read
 permalink: /to-read/
 
 # Books to Read

@@ -2,7 +2,7 @@
 ---
 - [Books Read](https://dhruvthakker.github.io/thoughts/read-reading)
 - [Books to Read](https://dhruvthakker.github.io/thoughts/to-read)
-- [Book Reviews](https://dhruvthakker.github.io/thoughts/reviews)
+- [Book Summaries](https://dhruvthakker.github.io/thoughts/summaries)
   
   
 - Awesome topics

@@ -6,7 +6,7 @@ permalink: /summaries/
 -->
 
 
-### Book1
+### Poor Charlie's Almanac
 
 Here is a book summary from my end 
 

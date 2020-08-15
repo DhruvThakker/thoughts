@@ -14,6 +14,7 @@
   - [ ] The Rational Optimist: How Prosperity Evolves *Matt Ridely*
   - [x] Outliers *Malcolm Gladwell*
   - [x] Tipping Point *Malcolm Gladwell*
+  - [x] Blink *Malcolm Gladwell*
   - [x] Sports Gene: Inside the Science of Extraordinary Athletic Performance *David Epstien*
   - [x] Range: How Generalists Triumph in a Specialized World *David Epstien*
  

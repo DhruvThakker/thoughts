@@ -2,6 +2,7 @@
 <!---
 layout: page
 title: "Read or Reading"
+description: "Books read"
 permalink: /read-reading/
 -->
 

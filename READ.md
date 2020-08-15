@@ -55,6 +55,7 @@
   - [ ] The Kite Runner *Khaled Hosseini*
 
 - Business
+  - [x] Loonshots: How to nurture the crazy ideas 
   - [x] Zero to One *Peter Thiel*
   
 - Tech 

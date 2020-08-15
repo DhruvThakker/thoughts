@@ -1,5 +1,3 @@
-## Welcome to Logs
-
 ### Table of Contents
 ---
 - [Books Read](https://dhruvthakker.github.io/thoughts/read-reading)

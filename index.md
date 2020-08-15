@@ -2,9 +2,9 @@
 
 ### Table of Contents
 ---
-- Books Read [link to Google!](https://dhruvthakker.github.io/thoughts/read-reading)
-- Books to Read [link to Google!](https://dhruvthakker.github.io/thoughts/to-read)
-- Book Reviews [link to Google!](https://dhruvthakker.github.io/thoughts/reviews)
+- [Books Read] (https://dhruvthakker.github.io/thoughts/read-reading)
+- [Books to Read] (https://dhruvthakker.github.io/thoughts/to-read)
+- [Book Reviews] (https://dhruvthakker.github.io/thoughts/reviews)
   
   
 - Awesome topics

@@ -10,8 +10,8 @@ permalink: /read-reading/
 # Books Read or Reading
 ---
 - Memoir
-  - [ ] Poor Charlie's Almanac *Charlie Munger*
-  - [x] Rich Dad Poor Dad *Robert Kiyosaki*
+  - [ ] Poor Charlie's Almanac *Charlie Munger* [Summary!](https://dhruvthakker.github.io/thoughts/summaries#poor-charlies-almanac)
+  - [x] Rich Dad Poor Dad *Robert Kiyosaki* [Summary!](https://dhruvthakker.github.io/thoughts/summaries#rich-dad-poor-dad)
   - [x] Shoe Dog: A memoir of the creator of NIKE *Phil Knight*
   - [x] Born a Crime *Trevor Noah*
   - [x] That will never work *Marc Randolf*
@@ -52,7 +52,7 @@ permalink: /read-reading/
 - Philosphy
   - [x] Homo Sapiens: A brief history of Humankind *Yuval Noah Harari* 
   - [ ] Homo Deus: A brief history of Tomorrow *Yuval Noah Harari*
-  - [ ] Blackswan: The Impact of Highly Improbable *Nassim Taleb*
+  - [ ] Blackswan: The Impact of Highly Improbable *Nassim Taleb* [Summary!](https://dhruvthakker.github.io/thoughts/summaries#blackswan)
   - [ ] Antifragile: Things that Gain from Disorder *Nassim Taleb*
   - [ ] Skin in the Game *Nassim Taleb*
  

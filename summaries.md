@@ -12,25 +12,25 @@ Here is a book summary from my end
 
 ---
 
-### Book2
+### Rich Dad Poor Dad
 
 Here is a book summary from my end 
 
 ---
 
-### Book3
+### Blackswan
 
 Here is a book summary from my end 
 
 ---
 
-### Book4
+### Effective Java
 
 Here is a book summary from my end 
 
 ---
 
-### Book5
+### Java:Concurrency in Practice
 
 Here is a book summary from my end 
 

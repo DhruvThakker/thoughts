@@ -28,9 +28,11 @@ permalink: /mental-models/
   -
   -
 - Laws of thermodynamics
-  -
-  -
-  -
+  - If two systems are both in thermal equilibrium with a third system then they are in thermal equilibrium with each other.
+  - Law of conservation of energy
+  - Defines entropy randomness in matter
+  - Entropy -> 0 as temperature -> absolute zero.
+  - Perpetual motion machines are impossible if heat is generated.
 - Keplars laws
   -
   -

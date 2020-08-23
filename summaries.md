@@ -15,7 +15,8 @@ but not necessarily in fast spurts. Nevertheless you build discipline
 by preparing by preparing for fast spurts. Slug it out day by day one inch at a time. 
 At the end of the dady if you live long enough you get what you deserve.
 ```
-- Importance of multiple mental models from different fields mathematics, physics, phsycology, economics, biology etc..
+- Importance of multiple [mental models](https://dhruvthakker.github.io/thoughts/mental-models) from different fields 
+mathematics, physics, phsycology, economics, biology etc..
 - Ways to surely being miserable
  
 

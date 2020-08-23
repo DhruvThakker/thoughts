@@ -1,3 +1,10 @@
+<!---
+layout: page
+title: "Mental Models"
+description: "Mental Models"
+permalink: /mental-models/
+-->
+
 # Mental Models in different fields
 
 ## Mathematics
